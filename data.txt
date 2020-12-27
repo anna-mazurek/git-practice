@@ -1,3 +1,5 @@
 Name: Anna Maria
 Age: 28
 Favorite Color: black
+Favourite City: Barcelona
+Zodiac Sign: Leo
